@@ -8,8 +8,6 @@ function App() {
       <NavBar />
 
       <Routes><Route path='/' /></Routes>
-
-      <h1>Hey.</h1>
     </BrowserRouter>
   );
 }
